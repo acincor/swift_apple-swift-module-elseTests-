@@ -55,4 +55,4 @@ Tips
 
 -  Screenshot will be saved to ' ~/Desktop/Swift-Apple/screenshots '
 
-.. warning.jpg: image :: https://www.z4a.net/images/2022/04/13/warning.jpg
+.. warning.jpg image :: https://www.z4a.net/images/2022/04/13/warning.jpg
