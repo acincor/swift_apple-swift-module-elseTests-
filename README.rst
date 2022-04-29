@@ -5,7 +5,7 @@ This swift(module) is a swift-calculate app.
 SCREEN SHOT
 ---------------
 
-|warning.jpg|
+| warning.jpg |
 
 INSTALLATIONS
 ---------------
